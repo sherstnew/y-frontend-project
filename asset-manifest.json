@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ff371f6.css",
+    "main.js": "/static/js/main.24bc6122.js",
+    "static/js/787.1519aad6.chunk.js": "/static/js/787.1519aad6.chunk.js",
+    "static/media/denis.png": "/static/media/denis.8b6debb3d57ef0617fe1.png",
+    "static/media/whiteProjectsCity.png": "/static/media/whiteProjectsCity.4e16446fcc94462ad617.png",
+    "static/media/darkProjectsCity.png": "/static/media/darkProjectsCity.5b2f1784ea28458b01f5.png",
+    "static/media/darkCity.png": "/static/media/darkCity.de823aa744093aee3adc.png",
+    "static/media/pymogus.png": "/static/media/pymogus.aaa8fd1e65f2dfe73102.png",
+    "static/media/messenger.png": "/static/media/messenger.211c124a3784d8e26dc6.png",
+    "static/media/whiteCity.png": "/static/media/whiteCity.6525d2ecb167fbd4e84e.png",
+    "static/media/coffish.png": "/static/media/coffish.28b1b26720f3e76ebbd0.png",
+    "static/media/library.png": "/static/media/library.f5005b97fee0833230ea.png",
+    "static/media/meettime.png": "/static/media/meettime.f679072cd82c9c0f31ca.png",
+    "static/media/practicehub.png": "/static/media/practicehub.6091b7fecb91f469961f.png",
+    "static/media/rogue.png": "/static/media/rogue.78fb5b254f0023a252e6.png",
+    "static/media/2083.png": "/static/media/2083.c4b3995de87e0ce68afe.png",
+    "static/media/morozoff.jpg": "/static/media/morozoff.66bdf5dd1972a0dc1ca2.jpg",
+    "static/media/makar.jpg": "/static/media/makar.ea03e1bfff5c70e8cde7.jpg",
+    "static/media/mega_map.png": "/static/media/mega_map.dbf10c6f74f0faed82be.png",
+    "static/media/running_cat.png": "/static/media/running_cat.4958ad40b8507c4e4baa.png",
+    "static/media/leaves.svg": "/static/media/leaves.62a07db4db450387fda4.svg",
+    "static/media/time-tracker.png": "/static/media/time-tracker.e441f49a8e9917540a69.png",
+    "static/media/ghDark.svg": "/static/media/ghDark.1cb9abead6301430a7b3.svg",
+    "static/media/ghWhite.svg": "/static/media/ghWhite.06848106eaf9183bf1a0.svg",
+    "static/media/tgDark.svg": "/static/media/tgDark.ccd604d61f11711c6990.svg",
+    "static/media/tgWhite.svg": "/static/media/tgWhite.d047a2f1ce188851d65a.svg",
+    "index.html": "/index.html",
+    "main.3ff371f6.css.map": "/static/css/main.3ff371f6.css.map",
+    "main.24bc6122.js.map": "/static/js/main.24bc6122.js.map",
+    "787.1519aad6.chunk.js.map": "/static/js/787.1519aad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff371f6.css",
+    "static/js/main.24bc6122.js"
+  ]
+}
